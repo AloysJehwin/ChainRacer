@@ -1,0 +1,344 @@
+2024.09.28:09:31:38.928: main Phoenix Miner 6.2c Windows/msvc - Release build
+2024.09.28:09:31:38.928: main Cmd line: 
+2024.09.28:09:31:38.946: main CUDA version: 12.0, CUDA runtime: 8.0
+2024.09.28:09:31:38.949: main Initializing NVML...
+2024.09.28:09:31:38.960: main NVML library initialized
+2024.09.28:09:31:38.960: main NVML version: 12.560.81
+2024.09.28:09:31:38.973: main Nvidia driver version: 560.81
+2024.09.28:09:31:38.977: main GPU NVIDIA GeForce RTX 2050: FHR (device id: 25AD)
+2024.09.28:09:31:39.086: main No OpenCL platforms found
+2024.09.28:09:31:39.086: main Available GPUs for mining:
+2024.09.28:09:31:39.087: main GPU1: HP NVIDIA GeForce RTX 2050 (pcie 1), CUDA cap. 8.6, 4 GB VRAM, 16 CUs
+2024.09.28:09:31:39.432: main Eth: Loading pools from epools.txt
+2024.09.28:09:31:39.433: main Eth: the pool list contains 12 pools (0 from command-line)
+2024.09.28:09:31:39.433: main Eth: primary pool: europe.etchash-hub.miningpoolhub.com:20615
+2024.09.28:09:31:39.435: main Starting GPU mining
+2024.09.28:09:31:39.554: wdog Starting watchdog thread
+2024.09.28:09:31:39.564: main Eth: Connecting to ethash pool europe.etchash-hub.miningpoolhub.com:20615 (proto: Stratum)
+2024.09.28:09:31:39.565: main GPU1: 44C 8W
+GPUs power: 7.5 W
+2024.09.28:09:31:39.774: main Listening for CDM remote manager at port 3333 in read-only mode
+2024.09.28:09:32:09.659: main GPU1: 43C 4W
+GPUs power: 3.6 W
+2024.09.28:09:32:21.788: eths Eth: Could not connect to ethash pool europe.etchash-hub.miningpoolhub.com:20615: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:32:21.789: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:32:24.597: main  
+2024.09.28:09:32:24.597: main *** 0:00 *** 9/28 09:32 **************************************
+2024.09.28:09:32:24.598: main Eth: Mining Unknown on >europe.etchash-hub.miningpoolhub.com:20615 for 0:00
+2024.09.28:09:32:24.599: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.28:09:32:24.599: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.28:09:32:24.599: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.28:09:32:24.599: main  
+2024.09.28:09:32:26.792: unkn Eth: Connecting to ethash pool europe.etchash-hub.miningpoolhub.com:20615 (proto: Stratum)
+2024.09.28:09:32:39.946: main GPU1: 41C 3W
+GPUs power: 2.7 W
+2024.09.28:09:33:08.883: eths Eth: Could not connect to ethash pool europe.etchash-hub.miningpoolhub.com:20615: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:33:08.884: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:33:09.651: main  
+2024.09.28:09:33:09.651: main *** 0:01 *** 9/28 09:33 **************************************
+2024.09.28:09:33:09.653: main Eth: Mining Unknown on >europe.etchash-hub.miningpoolhub.com:20615 for 0:00
+2024.09.28:09:33:09.653: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.28:09:33:09.653: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.28:09:33:09.653: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.28:09:33:09.654: main Eth: Effective speed: 0.00 MH/s; at pool: 0.00 MH/s
+2024.09.28:09:33:09.654: main  
+2024.09.28:09:33:10.067: main GPU1: 40C 3W
+GPUs power: 3.1 W
+2024.09.28:09:33:13.900: unkn Eth: Connecting to ethash pool europe.etchash-hub.miningpoolhub.com:20615 (proto: Stratum)
+2024.09.28:09:33:40.329: main GPU1: 39C 3W
+GPUs power: 2.6 W
+2024.09.28:09:33:54.850: main  
+2024.09.28:09:33:54.850: main *** 0:02 *** 9/28 09:33 **************************************
+2024.09.28:09:33:54.853: main Eth: Mining Unknown on >europe.etchash-hub.miningpoolhub.com:20615 for 0:00
+2024.09.28:09:33:54.853: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.28:09:33:54.853: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.28:09:33:54.853: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.28:09:33:54.853: main Eth: Effective speed: 0.00 MH/s; at pool: 0.00 MH/s
+2024.09.28:09:33:54.853: main  
+2024.09.28:09:33:55.994: eths Eth: Could not connect to ethash pool europe.etchash-hub.miningpoolhub.com:20615: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:33:55.997: eths Eth: Giving up after 3 retries, switching to next pool
+2024.09.28:09:33:55.997: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:34:01.004: unkn Eth: Connecting to ethash pool europe.etchash-hub.miningpoolhub.com:20615 (proto: Stratum)
+2024.09.28:09:34:10.439: main GPU1: 39C 3W
+GPUs power: 2.6 W
+2024.09.28:09:34:39.930: main  
+2024.09.28:09:34:39.930: main *** 0:03 *** 9/28 09:34 **************************************
+2024.09.28:09:34:39.931: main Eth: Mining Unknown on >europe.etchash-hub.miningpoolhub.com:20615 for 0:00
+2024.09.28:09:34:39.931: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.28:09:34:39.931: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.28:09:34:39.931: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.28:09:34:39.931: main Eth: Effective speed: 0.00 MH/s; at pool: 0.00 MH/s
+2024.09.28:09:34:39.931: main  
+2024.09.28:09:34:40.553: main GPU1: 38C 3W
+GPUs power: 2.6 W
+2024.09.28:09:34:43.102: eths Eth: Could not connect to ethash pool europe.etchash-hub.miningpoolhub.com:20615: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:34:43.103: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:34:48.113: unkn Eth: Connecting to ethash pool europe.etchash-hub.miningpoolhub.com:20615 (proto: Stratum)
+2024.09.28:09:35:10.703: main GPU1: 38C 3W
+GPUs power: 2.6 W
+2024.09.28:09:35:24.965: main  
+2024.09.28:09:35:24.966: main *** 0:03 *** 9/28 09:35 **************************************
+2024.09.28:09:35:24.967: main Eth: Mining Unknown on >europe.etchash-hub.miningpoolhub.com:20615 for 0:00
+2024.09.28:09:35:24.967: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.28:09:35:24.967: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.28:09:35:24.967: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.28:09:35:24.967: main Eth: Effective speed: 0.00 MH/s; at pool: 0.00 MH/s
+2024.09.28:09:35:24.967: main  
+2024.09.28:09:35:30.157: eths Eth: Could not connect to ethash pool europe.etchash-hub.miningpoolhub.com:20615: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:35:30.158: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:35:35.161: unkn Eth: Connecting to ethash pool europe.etchash-hub.miningpoolhub.com:20615 (proto: Stratum)
+2024.09.28:09:35:40.970: main GPU1: 38C 3W
+GPUs power: 2.6 W
+2024.09.28:09:36:10.010: main  
+2024.09.28:09:36:10.010: main *** 0:04 *** 9/28 09:36 **************************************
+2024.09.28:09:36:10.012: main Eth: Mining Unknown on >europe.etchash-hub.miningpoolhub.com:20615 for 0:00
+2024.09.28:09:36:10.012: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.28:09:36:10.012: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.28:09:36:10.012: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.28:09:36:10.012: main Eth: Effective speed: 0.00 MH/s; at pool: 0.00 MH/s
+2024.09.28:09:36:10.012: main  
+2024.09.28:09:36:11.081: main GPU1: 38C 3W
+GPUs power: 3.1 W
+2024.09.28:09:36:17.240: eths Eth: Could not connect to ethash pool europe.etchash-hub.miningpoolhub.com:20615: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:36:17.243: eths Eth: Giving up after 3 retries, switching to next pool
+2024.09.28:09:36:17.243: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:36:22.245: unkn Eth: Connecting to ethash pool eu.emcd.io:7878 (proto: EthProxy)
+2024.09.28:09:36:41.318: main GPU1: 38C 3W
+GPUs power: 2.6 W
+2024.09.28:09:36:55.120: main  
+2024.09.28:09:36:55.120: main *** 0:05 *** 9/28 09:36 **************************************
+2024.09.28:09:36:55.120: main Eth: Mining Unknown on >eu.emcd.io:7878 for 0:00
+2024.09.28:09:36:55.120: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.28:09:36:55.120: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.28:09:36:55.120: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.28:09:36:55.120: main Eth: Effective speed: 0.00 MH/s; at pool: 0.00 MH/s
+2024.09.28:09:36:55.120: main  
+2024.09.28:09:37:04.399: eths Eth: Could not connect to ethash pool eu.emcd.io:7878: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:37:04.401: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:37:09.415: unkn Eth: Connecting to ethash pool eu.emcd.io:7878 (proto: EthProxy)
+2024.09.28:09:37:11.508: main GPU1: 38C 3W
+GPUs power: 2.6 W
+2024.09.28:09:37:40.176: main  
+2024.09.28:09:37:40.176: main *** 0:06 *** 9/28 09:37 **************************************
+2024.09.28:09:37:40.177: main Eth: Mining Unknown on >eu.emcd.io:7878 for 0:00
+2024.09.28:09:37:40.177: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.28:09:37:40.177: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.28:09:37:40.177: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.28:09:37:40.177: main Eth: Effective speed: 0.00 MH/s; at pool: 0.00 MH/s
+2024.09.28:09:37:40.177: main  
+2024.09.28:09:37:41.634: main GPU1: 37C 3W
+GPUs power: 2.6 W
+2024.09.28:09:37:51.466: eths Eth: Could not connect to ethash pool eu.emcd.io:7878: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:37:51.467: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:37:56.475: unkn Eth: Connecting to ethash pool eu.emcd.io:7878 (proto: EthProxy)
+2024.09.28:09:38:11.783: main GPU1: 38C 3W
+GPUs power: 2.6 W
+2024.09.28:09:38:25.195: main  
+2024.09.28:09:38:25.195: main *** 0:06 *** 9/28 09:38 **************************************
+2024.09.28:09:38:25.196: main Eth: Mining Unknown on >eu.emcd.io:7878 for 0:00
+2024.09.28:09:38:25.196: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.28:09:38:25.196: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.28:09:38:25.196: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.28:09:38:25.196: main Eth: Effective speed: 0.00 MH/s; at pool: 0.00 MH/s
+2024.09.28:09:38:25.196: main  
+2024.09.28:09:38:38.551: eths Eth: Could not connect to ethash pool eu.emcd.io:7878: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:38:38.553: eths Eth: Giving up after 3 retries, switching to next pool
+2024.09.28:09:38:38.553: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:38:42.047: main GPU1: 38C 3W
+GPUs power: 2.6 W
+2024.09.28:09:38:43.562: unkn Eth: Connecting to ethash pool eu.emcd.io:7878 (proto: EthProxy)
+2024.09.28:09:39:10.257: main  
+2024.09.28:09:39:10.257: main *** 0:07 *** 9/28 09:39 **************************************
+2024.09.28:09:39:10.258: main Eth: Mining Unknown on >eu.emcd.io:7878 for 0:00
+2024.09.28:09:39:10.258: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.28:09:39:10.258: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.28:09:39:10.258: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.28:09:39:10.258: main Eth: Effective speed: 0.00 MH/s; at pool: 0.00 MH/s
+2024.09.28:09:39:10.258: main  
+2024.09.28:09:39:12.120: main GPU1: 38C 3W
+GPUs power: 2.6 W
+2024.09.28:09:39:25.649: eths Eth: Could not connect to ethash pool eu.emcd.io:7878: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:39:25.650: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:39:30.657: unkn Eth: Connecting to ethash pool eu.emcd.io:7878 (proto: EthProxy)
+2024.09.28:09:39:42.132: main GPU1: 38C 3W
+GPUs power: 2.6 W
+2024.09.28:09:39:55.315: main  
+2024.09.28:09:39:55.315: main *** 0:08 *** 9/28 09:39 **************************************
+2024.09.28:09:39:55.316: main Eth: Mining Unknown on >eu.emcd.io:7878 for 0:00
+2024.09.28:09:39:55.316: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.28:09:39:55.316: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.28:09:39:55.316: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.28:09:39:55.316: main Eth: Effective speed: 0.00 MH/s; at pool: 0.00 MH/s
+2024.09.28:09:39:55.316: main  
+2024.09.28:09:40:12.408: main GPU1: 38C 3W
+GPUs power: 2.6 W
+2024.09.28:09:40:12.754: eths Eth: Could not connect to ethash pool eu.emcd.io:7878: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:40:12.756: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:40:17.762: unkn Eth: Connecting to ethash pool eu.emcd.io:7878 (proto: EthProxy)
+2024.09.28:09:40:40.369: main  
+2024.09.28:09:40:40.369: main *** 0:09 *** 9/28 09:40 **************************************
+2024.09.28:09:40:40.369: main Eth: Mining Unknown on >eu.emcd.io:7878 for 0:00
+2024.09.28:09:40:40.369: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.28:09:40:40.369: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.28:09:40:40.369: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.28:09:40:40.369: main Eth: Effective speed: 0.00 MH/s; at pool: 0.00 MH/s
+2024.09.28:09:40:40.369: main  
+2024.09.28:09:40:42.569: main GPU1: 38C 3W
+GPUs power: 2.6 W
+2024.09.28:09:40:59.840: eths Eth: Could not connect to ethash pool eu.emcd.io:7878: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:40:59.842: eths Eth: Giving up after 3 retries, switching to next pool
+2024.09.28:09:40:59.842: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:41:04.845: unkn Eth: Connecting to ethash pool etchash.auto.nicehash.com:9200 (proto: Nicehash)
+2024.09.28:09:41:12.797: main GPU1: 38C 3W
+GPUs power: 2.6 W
+2024.09.28:09:41:25.498: main  
+2024.09.28:09:41:25.498: main *** 0:09 *** 9/28 09:41 **************************************
+2024.09.28:09:41:25.499: main Eth: Mining Unknown on >etchash.auto.nicehash.com:9200 for 0:00
+2024.09.28:09:41:25.499: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.28:09:41:25.499: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.28:09:41:25.499: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.28:09:41:25.499: main Eth: Effective speed: 0.00 MH/s; at pool: 0.00 MH/s
+2024.09.28:09:41:25.499: main  
+2024.09.28:09:41:25.926: eths Eth: Could not connect to ethash pool etchash.auto.nicehash.com:9200: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:41:25.928: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:41:30.938: unkn Eth: Connecting to ethash pool etchash.auto.nicehash.com:9200 (proto: Nicehash)
+2024.09.28:09:41:43.024: main GPU1: 38C 3W
+GPUs power: 2.6 W
+2024.09.28:09:41:52.007: eths Eth: Could not connect to ethash pool etchash.auto.nicehash.com:9200: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:41:52.008: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:41:57.020: unkn Eth: Connecting to ethash pool etchash.auto.nicehash.com:9200 (proto: Nicehash)
+2024.09.28:09:42:10.538: main  
+2024.09.28:09:42:10.538: main *** 0:10 *** 9/28 09:42 **************************************
+2024.09.28:09:42:10.540: main Eth: Mining Unknown on >etchash.auto.nicehash.com:9200 for 0:00
+2024.09.28:09:42:10.540: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.28:09:42:10.540: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.28:09:42:10.540: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.28:09:42:10.540: main Eth: Effective speed: 0.00 MH/s; at pool: 0.00 MH/s
+2024.09.28:09:42:10.540: main  
+2024.09.28:09:42:13.049: main GPU1: 38C 3W
+GPUs power: 2.6 W
+2024.09.28:09:42:18.090: eths Eth: Could not connect to ethash pool etchash.auto.nicehash.com:9200: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:42:18.093: eths Eth: Giving up after 3 retries, switching to next pool
+2024.09.28:09:42:18.093: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:42:23.102: unkn Eth: Connecting to ethash pool etchash.auto.nicehash.com:9200 (proto: Nicehash)
+2024.09.28:09:42:43.212: main GPU1: 38C 3W
+GPUs power: 2.6 W
+2024.09.28:09:42:44.158: eths Eth: Could not connect to ethash pool etchash.auto.nicehash.com:9200: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:42:44.165: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:42:49.175: unkn Eth: Connecting to ethash pool etchash.auto.nicehash.com:9200 (proto: Nicehash)
+2024.09.28:09:42:55.650: main  
+2024.09.28:09:42:55.650: main *** 0:11 *** 9/28 09:42 **************************************
+2024.09.28:09:42:55.650: main Eth: Mining Unknown on >etchash.auto.nicehash.com:9200 for 0:00
+2024.09.28:09:42:55.650: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.28:09:42:55.650: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.28:09:42:55.650: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.28:09:42:55.650: main Eth: Effective speed: 0.00 MH/s; at pool: 0.00 MH/s
+2024.09.28:09:42:55.650: main  
+2024.09.28:09:43:10.212: eths Eth: Could not connect to ethash pool etchash.auto.nicehash.com:9200: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:43:10.213: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:43:13.378: main GPU1: 39C 3W
+GPUs power: 2.6 W
+2024.09.28:09:43:15.222: unkn Eth: Connecting to ethash pool etchash.auto.nicehash.com:9200 (proto: Nicehash)
+2024.09.28:09:43:36.264: eths Eth: Could not connect to ethash pool etchash.auto.nicehash.com:9200: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:43:36.265: eths Eth: Giving up after 3 retries, switching to next pool
+2024.09.28:09:43:36.265: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:43:40.778: main  
+2024.09.28:09:43:40.778: main *** 0:12 *** 9/28 09:43 **************************************
+2024.09.28:09:43:40.778: main Eth: Mining ETC on >stratum-etc.antpool.com:8008 for 0:00
+2024.09.28:09:43:40.778: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.28:09:43:40.778: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.28:09:43:40.778: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.28:09:43:40.778: main Eth: Effective speed: 0.00 MH/s; at pool: 0.00 MH/s
+2024.09.28:09:43:40.778: main  
+2024.09.28:09:43:41.269: unkn Eth: Connecting to ethash pool stratum-etc.antpool.com:8008 (proto: EthProxy)
+2024.09.28:09:43:43.401: main GPU1: 38C 3W
+GPUs power: 2.6 W
+2024.09.28:09:44:02.519: eths Eth: Could not connect to ethash pool stratum-etc.antpool.com:8008: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:44:02.520: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:44:07.525: unkn Eth: Connecting to ethash pool stratum-etc.antpool.com:8008 (proto: EthProxy)
+2024.09.28:09:44:13.683: main GPU1: 38C 3W
+GPUs power: 2.6 W
+2024.09.28:09:44:25.795: main  
+2024.09.28:09:44:25.795: main *** 0:12 *** 9/28 09:44 **************************************
+2024.09.28:09:44:25.795: main Eth: Mining ETC on >stratum-etc.antpool.com:8008 for 0:00
+2024.09.28:09:44:25.795: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.28:09:44:25.795: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.28:09:44:25.795: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.28:09:44:25.795: main Eth: Effective speed: 0.00 MH/s; at pool: 0.00 MH/s
+2024.09.28:09:44:25.795: main  
+2024.09.28:09:44:28.578: eths Eth: Could not connect to ethash pool stratum-etc.antpool.com:8008: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:44:28.579: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:44:33.593: unkn Eth: Connecting to ethash pool stratum-etc.antpool.com:8008 (proto: EthProxy)
+2024.09.28:09:44:43.883: main GPU1: 38C 3W
+GPUs power: 2.6 W
+2024.09.28:09:44:54.649: eths Eth: Could not connect to ethash pool stratum-etc.antpool.com:8008: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:44:54.652: eths Eth: Giving up after 3 retries, switching to next pool
+2024.09.28:09:44:54.652: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:44:59.666: unkn Eth: Connecting to ethash pool stratum-etc.antpool.com:8008 (proto: EthProxy)
+2024.09.28:09:45:10.907: main  
+2024.09.28:09:45:10.907: main *** 0:13 *** 9/28 09:45 **************************************
+2024.09.28:09:45:10.907: main Eth: Mining ETC on >stratum-etc.antpool.com:8008 for 0:00
+2024.09.28:09:45:10.907: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.28:09:45:10.907: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.28:09:45:10.907: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.28:09:45:10.907: main Eth: Effective speed: 0.00 MH/s; at pool: 0.00 MH/s
+2024.09.28:09:45:10.907: main  
+2024.09.28:09:45:14.037: main GPU1: 38C 3W
+GPUs power: 2.6 W
+2024.09.28:09:45:20.734: eths Eth: Could not connect to ethash pool stratum-etc.antpool.com:8008: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:45:20.735: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:45:25.746: unkn Eth: Connecting to ethash pool stratum-etc.antpool.com:8008 (proto: EthProxy)
+2024.09.28:09:45:44.139: main GPU1: 39C 7W
+GPUs power: 7.1 W
+2024.09.28:09:45:46.797: eths Eth: Could not connect to ethash pool stratum-etc.antpool.com:8008: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:45:46.798: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:45:51.807: unkn Eth: Connecting to ethash pool stratum-etc.antpool.com:8008 (proto: EthProxy)
+2024.09.28:09:45:56.101: main  
+2024.09.28:09:45:56.101: main *** 0:14 *** 9/28 09:45 **************************************
+2024.09.28:09:45:56.101: main Eth: Mining ETC on >stratum-etc.antpool.com:8008 for 0:00
+2024.09.28:09:45:56.101: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.28:09:45:56.101: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.28:09:45:56.101: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.28:09:45:56.101: main Eth: Effective speed: 0.00 MH/s; at pool: 0.00 MH/s
+2024.09.28:09:45:56.101: main  
+2024.09.28:09:46:12.861: eths Eth: Could not connect to ethash pool stratum-etc.antpool.com:8008: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:46:12.862: eths Eth: Giving up after 3 retries, switching to next pool
+2024.09.28:09:46:12.862: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:46:14.500: main GPU1: 38C 3W
+GPUs power: 2.6 W
+2024.09.28:09:46:17.872: unkn Eth: Connecting to ethash pool etc.f2pool.com:8118 (proto: EthProxy)
+2024.09.28:09:46:39.084: eths Eth: Could not connect to ethash pool etc.f2pool.com:8118: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:46:39.084: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:46:41.233: main  
+2024.09.28:09:46:41.233: main *** 0:15 *** 9/28 09:46 **************************************
+2024.09.28:09:46:41.233: main Eth: Mining ETC on >etc.f2pool.com:8118 for 0:00
+2024.09.28:09:46:41.233: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.28:09:46:41.233: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.28:09:46:41.233: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.28:09:46:41.233: main Eth: Effective speed: 0.00 MH/s; at pool: 0.00 MH/s
+2024.09.28:09:46:41.233: main  
+2024.09.28:09:46:44.088: unkn Eth: Connecting to ethash pool etc.f2pool.com:8118 (proto: EthProxy)
+2024.09.28:09:46:44.561: main GPU1: 38C 3W
+GPUs power: 2.6 W
+2024.09.28:09:47:05.118: eths Eth: Could not connect to ethash pool etc.f2pool.com:8118: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:47:05.122: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:47:10.132: unkn Eth: Connecting to ethash pool etc.f2pool.com:8118 (proto: EthProxy)
+2024.09.28:09:47:15.092: main GPU1: 38C 2W
+GPUs power: 1.6 W
+2024.09.28:09:47:26.377: main  
+2024.09.28:09:47:26.377: main *** 0:15 *** 9/28 09:47 **************************************
+2024.09.28:09:47:26.377: main Eth: Mining ETC on >etc.f2pool.com:8118 for 0:00
+2024.09.28:09:47:26.377: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.28:09:47:26.377: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.28:09:47:26.377: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.28:09:47:26.377: main Eth: Effective speed: 0.00 MH/s; at pool: 0.00 MH/s
+2024.09.28:09:47:26.377: main  
+2024.09.28:09:47:31.193: eths Eth: Could not connect to ethash pool etc.f2pool.com:8118: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:47:31.193: eths Eth: Giving up after 3 retries, switching to next pool
+2024.09.28:09:47:31.193: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:47:36.200: unkn Eth: Connecting to ethash pool etc.f2pool.com:8118 (proto: EthProxy)
+2024.09.28:09:47:42.759: main GPU1: 39C 7W
+GPUs power: 7.2 W
+2024.09.28:09:47:53.126: unkn Quitting...
+2024.09.28:09:47:53.171: wdog Stopping watchdog thread
+2024.09.28:09:47:53.178: main Exit code: 0

@@ -1,0 +1,37 @@
+2024.09.27:23:29:56.964: main Phoenix Miner 6.2c Windows/msvc - Release build
+2024.09.27:23:29:56.964: main Cmd line: 
+2024.09.27:23:29:56.997: main CUDA version: 12.0, CUDA runtime: 8.0
+2024.09.27:23:29:56.998: main Initializing NVML...
+2024.09.27:23:29:57.008: main NVML library initialized
+2024.09.27:23:29:57.008: main NVML version: 12.560.81
+2024.09.27:23:29:57.014: main Nvidia driver version: 560.81
+2024.09.27:23:29:57.019: main GPU NVIDIA GeForce RTX 2050: FHR (device id: 25AD)
+2024.09.27:23:29:57.130: main No OpenCL platforms found
+2024.09.27:23:29:57.131: main Available GPUs for mining:
+2024.09.27:23:29:57.131: main GPU1: HP NVIDIA GeForce RTX 2050 (pcie 1), CUDA cap. 8.6, 4 GB VRAM, 16 CUs
+2024.09.27:23:29:57.311: main Eth: Loading pools from epools.txt
+2024.09.27:23:29:57.312: main Eth: the pool list contains 12 pools (0 from command-line)
+2024.09.27:23:29:57.312: main Eth: primary pool: europe.etchash-hub.miningpoolhub.com:20615
+2024.09.27:23:29:57.312: main Starting GPU mining
+2024.09.27:23:29:57.432: wdog Starting watchdog thread
+2024.09.27:23:29:57.432: main Eth: Connecting to ethash pool europe.etchash-hub.miningpoolhub.com:20615 (proto: Stratum)
+2024.09.27:23:29:57.433: main GPU1: 41C 2W
+GPUs power: 2.3 W
+2024.09.27:23:29:57.638: main Listening for CDM remote manager at port 3333 in read-only mode
+2024.09.27:23:30:27.543: main GPU1: 42C 2W
+GPUs power: 2.3 W
+2024.09.27:23:30:39.585: eths Eth: Could not connect to ethash pool europe.etchash-hub.miningpoolhub.com:20615: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.27:23:30:39.586: eths Eth: Reconnecting in 5 seconds...
+2024.09.27:23:30:42.636: main  
+2024.09.27:23:30:42.636: main *** 0:00 *** 9/27 23:30 **************************************
+2024.09.27:23:30:42.638: main Eth: Mining Unknown on >europe.etchash-hub.miningpoolhub.com:20615 for 0:00
+2024.09.27:23:30:42.638: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.27:23:30:42.638: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.27:23:30:42.638: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.27:23:30:42.638: main  
+2024.09.27:23:30:44.592: unkn Eth: Connecting to ethash pool europe.etchash-hub.miningpoolhub.com:20615 (proto: Stratum)
+2024.09.27:23:30:57.839: main GPU1: 41C 2W
+GPUs power: 2.1 W
+2024.09.27:23:31:17.440: unkn Quitting...
+2024.09.27:23:31:17.450: wdog Stopping watchdog thread
+2024.09.27:23:31:17.452: main Exit code: 0

@@ -1,0 +1,23 @@
+2024.09.28:08:41:54.675: main Phoenix Miner 6.2c Windows/msvc - Release build
+2024.09.28:08:41:54.675: main Cmd line: 
+2024.09.28:08:41:55.264: main CUDA version: 12.0, CUDA runtime: 8.0
+2024.09.28:08:41:55.264: main Initializing NVML...
+2024.09.28:08:41:55.272: main NVML library initialized
+2024.09.28:08:41:55.272: main NVML version: 12.560.81
+2024.09.28:08:41:55.293: main Nvidia driver version: 560.81
+2024.09.28:08:41:55.296: main GPU NVIDIA GeForce RTX 2050: FHR (device id: 25AD)
+2024.09.28:08:41:55.376: main No OpenCL platforms found
+2024.09.28:08:41:55.376: main Available GPUs for mining:
+2024.09.28:08:41:55.376: main GPU1: HP NVIDIA GeForce RTX 2050 (pcie 1), CUDA cap. 8.6, 4 GB VRAM, 16 CUs
+2024.09.28:08:41:55.506: main Eth: Loading pools from epools.txt
+2024.09.28:08:41:55.506: main Eth: the pool list contains 12 pools (0 from command-line)
+2024.09.28:08:41:55.506: main Eth: primary pool: europe.etchash-hub.miningpoolhub.com:20615
+2024.09.28:08:41:55.507: main Starting GPU mining
+2024.09.28:08:41:55.621: wdog Starting watchdog thread
+2024.09.28:08:41:55.622: main Eth: Connecting to ethash pool europe.etchash-hub.miningpoolhub.com:20615 (proto: Stratum)
+2024.09.28:08:41:55.623: main GPU1: 41C 7W
+GPUs power: 7.1 W
+2024.09.28:08:41:55.830: main Listening for CDM remote manager at port 3333 in read-only mode
+2024.09.28:08:42:04.410: unkn Quitting...
+2024.09.28:08:42:04.604: wdog Stopping watchdog thread
+2024.09.28:08:42:04.616: main Exit code: 0

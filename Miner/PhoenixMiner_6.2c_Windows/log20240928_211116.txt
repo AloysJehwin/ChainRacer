@@ -1,0 +1,104 @@
+2024.09.28:21:11:16.462: main Phoenix Miner 6.2c Windows/msvc - Release build
+2024.09.28:21:11:16.462: main Cmd line: 
+2024.09.28:21:11:16.491: main CUDA version: 12.0, CUDA runtime: 8.0
+2024.09.28:21:11:16.493: main Initializing NVML...
+2024.09.28:21:11:16.505: main NVML library initialized
+2024.09.28:21:11:16.505: main NVML version: 12.560.81
+2024.09.28:21:11:16.512: main Nvidia driver version: 560.81
+2024.09.28:21:11:16.518: main GPU NVIDIA GeForce RTX 2050: FHR (device id: 25AD)
+2024.09.28:21:11:16.615: main No OpenCL platforms found
+2024.09.28:21:11:16.616: main Available GPUs for mining:
+2024.09.28:21:11:16.616: main GPU1: HP NVIDIA GeForce RTX 2050 (pcie 1), CUDA cap. 8.6, 4 GB VRAM, 16 CUs
+2024.09.28:21:11:16.906: main Eth: Loading pools from epools.txt
+2024.09.28:21:11:16.909: main Eth: the pool list contains 12 pools (0 from command-line)
+2024.09.28:21:11:16.909: main Eth: primary pool: europe.etchash-hub.miningpoolhub.com:20615
+2024.09.28:21:11:16.911: main Starting GPU mining
+2024.09.28:21:11:17.016: wdog Starting watchdog thread
+2024.09.28:21:11:17.016: main Eth: Connecting to ethash pool europe.etchash-hub.miningpoolhub.com:20615 (proto: Stratum)
+2024.09.28:21:11:17.017: main GPU1: 46C 5W
+GPUs power: 5.1 W
+2024.09.28:21:11:17.219: main Listening for CDM remote manager at port 3333 in read-only mode
+2024.09.28:21:11:47.253: main GPU1: 45C 4W
+GPUs power: 3.7 W
+2024.09.28:21:11:59.152: eths Eth: Could not connect to ethash pool europe.etchash-hub.miningpoolhub.com:20615: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:21:11:59.154: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:21:12:02.213: main  
+2024.09.28:21:12:02.214: main *** 0:00 *** 9/28 21:12 **************************************
+2024.09.28:21:12:02.216: main Eth: Mining Unknown on >europe.etchash-hub.miningpoolhub.com:20615 for 0:00
+2024.09.28:21:12:02.216: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.28:21:12:02.216: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.28:21:12:02.216: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.28:21:12:02.216: main  
+2024.09.28:21:12:04.159: unkn Eth: Connecting to ethash pool europe.etchash-hub.miningpoolhub.com:20615 (proto: Stratum)
+2024.09.28:21:12:17.387: main GPU1: 43C 3W
+GPUs power: 2.7 W
+2024.09.28:21:12:46.264: eths Eth: Could not connect to ethash pool europe.etchash-hub.miningpoolhub.com:20615: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:21:12:46.265: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:21:12:47.234: main  
+2024.09.28:21:12:47.234: main *** 0:01 *** 9/28 21:12 **************************************
+2024.09.28:21:12:47.235: main Eth: Mining Unknown on >europe.etchash-hub.miningpoolhub.com:20615 for 0:00
+2024.09.28:21:12:47.235: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.28:21:12:47.235: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.28:21:12:47.235: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.28:21:12:47.235: main Eth: Effective speed: 0.00 MH/s; at pool: 0.00 MH/s
+2024.09.28:21:12:47.235: main  
+2024.09.28:21:12:48.264: main GPU1: 42C 311W
+GPUs power: 310.7 W
+2024.09.28:21:12:51.273: unkn Eth: Connecting to ethash pool europe.etchash-hub.miningpoolhub.com:20615 (proto: Stratum)
+2024.09.28:21:13:16.783: main GPU1: 41C 2W
+GPUs power: 1.6 W
+2024.09.28:21:13:32.321: main  
+2024.09.28:21:13:32.321: main *** 0:02 *** 9/28 21:13 **************************************
+2024.09.28:21:13:32.322: main Eth: Mining Unknown on >europe.etchash-hub.miningpoolhub.com:20615 for 0:00
+2024.09.28:21:13:32.322: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.28:21:13:32.322: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.28:21:13:32.322: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.28:21:13:32.322: main Eth: Effective speed: 0.00 MH/s; at pool: 0.00 MH/s
+2024.09.28:21:13:32.322: main  
+2024.09.28:21:13:33.356: eths Eth: Could not connect to ethash pool europe.etchash-hub.miningpoolhub.com:20615: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:21:13:33.359: eths Eth: Giving up after 3 retries, switching to next pool
+2024.09.28:21:13:33.359: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:21:13:38.366: unkn Eth: Connecting to ethash pool europe.etchash-hub.miningpoolhub.com:20615 (proto: Stratum)
+2024.09.28:21:13:44.449: main GPU1: 43C 18W
+GPUs power: 18.5 W
+2024.09.28:21:14:14.514: main GPU1: 42C 4W
+GPUs power: 3.6 W
+2024.09.28:21:14:17.418: main  
+2024.09.28:21:14:17.418: main *** 0:03 *** 9/28 21:14 **************************************
+2024.09.28:21:14:17.419: main Eth: Mining Unknown on >europe.etchash-hub.miningpoolhub.com:20615 for 0:00
+2024.09.28:21:14:17.419: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.28:21:14:17.419: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.28:21:14:17.419: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.28:21:14:17.419: main Eth: Effective speed: 0.00 MH/s; at pool: 0.00 MH/s
+2024.09.28:21:14:17.419: main  
+2024.09.28:21:14:20.433: eths Eth: Could not connect to ethash pool europe.etchash-hub.miningpoolhub.com:20615: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:21:14:20.433: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:21:14:25.435: unkn Eth: Connecting to ethash pool europe.etchash-hub.miningpoolhub.com:20615 (proto: Stratum)
+2024.09.28:21:14:44.752: main GPU1: 43C 4W
+GPUs power: 3.6 W
+2024.09.28:21:15:02.425: main  
+2024.09.28:21:15:02.425: main *** 0:03 *** 9/28 21:15 **************************************
+2024.09.28:21:15:02.427: main Eth: Mining Unknown on >europe.etchash-hub.miningpoolhub.com:20615 for 0:00
+2024.09.28:21:15:02.427: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.28:21:15:02.427: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.28:21:15:02.427: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.28:21:15:02.427: main Eth: Effective speed: 0.00 MH/s; at pool: 0.00 MH/s
+2024.09.28:21:15:02.427: main  
+2024.09.28:21:15:07.523: eths Eth: Could not connect to ethash pool europe.etchash-hub.miningpoolhub.com:20615: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:21:15:07.525: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:21:15:12.531: unkn Eth: Connecting to ethash pool europe.etchash-hub.miningpoolhub.com:20615 (proto: Stratum)
+2024.09.28:21:15:14.881: main GPU1: 43C 4W
+GPUs power: 3.6 W
+2024.09.28:21:15:45.379: main GPU1: 44C 2W
+GPUs power: 1.6 W
+2024.09.28:21:15:47.586: main  
+2024.09.28:21:15:47.587: main *** 0:04 *** 9/28 21:15 **************************************
+2024.09.28:21:15:47.587: main Eth: Mining Unknown on >europe.etchash-hub.miningpoolhub.com:20615 for 0:00
+2024.09.28:21:15:47.587: main Eth: Accepted shares 0 (0 stales), rejected shares 0 (0 stales)
+2024.09.28:21:15:47.587: main Eth: Incorrect shares 0 (0.00%), est. stales percentage 0.00% 
+2024.09.28:21:15:47.587: main Eth: Average speed (5 min): 0.000 MH/s
+2024.09.28:21:15:47.587: main Eth: Effective speed: 0.00 MH/s; at pool: 0.00 MH/s
+2024.09.28:21:15:47.587: main  
+2024.09.28:21:15:48.015: unkn Quitting...
+2024.09.28:21:15:48.037: wdog Stopping watchdog thread
+2024.09.28:21:15:48.043: main Exit code: 0

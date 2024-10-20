@@ -1,0 +1,27 @@
+2024.09.28:09:08:53.815: main Phoenix Miner 6.2c Windows/msvc - Release build
+2024.09.28:09:08:53.816: main Cmd line: 
+2024.09.28:09:08:53.912: main CUDA version: 12.0, CUDA runtime: 8.0
+2024.09.28:09:08:53.915: main Initializing NVML...
+2024.09.28:09:08:53.942: main NVML library initialized
+2024.09.28:09:08:53.942: main NVML version: 12.560.81
+2024.09.28:09:08:53.955: main Nvidia driver version: 560.81
+2024.09.28:09:08:53.985: main GPU NVIDIA GeForce RTX 2050: FHR (device id: 25AD)
+2024.09.28:09:08:54.136: main No OpenCL platforms found
+2024.09.28:09:08:54.136: main Available GPUs for mining:
+2024.09.28:09:08:54.136: main GPU1: HP NVIDIA GeForce RTX 2050 (pcie 1), CUDA cap. 8.6, 4 GB VRAM, 16 CUs
+2024.09.28:09:08:54.457: main Eth: Loading pools from epools.txt
+2024.09.28:09:08:54.457: main Eth: the pool list contains 12 pools (0 from command-line)
+2024.09.28:09:08:54.457: main Eth: primary pool: europe.etchash-hub.miningpoolhub.com:20615
+2024.09.28:09:08:54.458: main Starting GPU mining
+2024.09.28:09:08:54.575: wdog Starting watchdog thread
+2024.09.28:09:08:54.576: main Eth: Connecting to ethash pool europe.etchash-hub.miningpoolhub.com:20615 (proto: Stratum)
+2024.09.28:09:08:54.576: main GPU1: 50C 15W
+GPUs power: 15.0 W
+2024.09.28:09:08:54.780: main Listening for CDM remote manager at port 3333 in read-only mode
+2024.09.28:09:09:24.691: main GPU1: 52C 16W
+GPUs power: 15.6 W
+2024.09.28:09:09:36.693: eths Eth: Could not connect to ethash pool europe.etchash-hub.miningpoolhub.com:20615: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024.09.28:09:09:36.697: eths Eth: Reconnecting in 5 seconds...
+2024.09.28:09:09:39.676: unkn Quitting...
+2024.09.28:09:09:39.779: wdog Stopping watchdog thread
+2024.09.28:09:09:39.781: main Exit code: 0

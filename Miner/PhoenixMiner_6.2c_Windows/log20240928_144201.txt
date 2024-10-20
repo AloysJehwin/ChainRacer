@@ -1,0 +1,46 @@
+2024.09.28:14:42:01.659: main Phoenix Miner 6.2c Windows/msvc - Release build
+2024.09.28:14:42:01.659: main Cmd line: 
+2024.09.28:14:42:01.677: main CUDA version: 12.0, CUDA runtime: 8.0
+2024.09.28:14:42:01.678: main Initializing NVML...
+2024.09.28:14:42:01.687: main NVML library initialized
+2024.09.28:14:42:01.687: main NVML version: 12.560.81
+2024.09.28:14:42:01.698: main Nvidia driver version: 560.81
+2024.09.28:14:42:01.702: main GPU NVIDIA GeForce RTX 2050: FHR (device id: 25AD)
+2024.09.28:14:42:01.798: main No OpenCL platforms found
+2024.09.28:14:42:01.798: main Available GPUs for mining:
+2024.09.28:14:42:01.798: main GPU1: HP NVIDIA GeForce RTX 2050 (pcie 1), CUDA cap. 8.6, 4 GB VRAM, 16 CUs
+2024.09.28:14:42:02.005: main Eth: Loading pools from epools.txt
+2024.09.28:14:42:02.006: main Eth: the pool list contains 12 pools (0 from command-line)
+2024.09.28:14:42:02.006: main Eth: primary pool: europe.etchash-hub.miningpoolhub.com:20615
+2024.09.28:14:42:02.006: main Starting GPU mining
+2024.09.28:14:42:02.119: wdog Starting watchdog thread
+2024.09.28:14:42:02.120: main Eth: Connecting to ethash pool europe.etchash-hub.miningpoolhub.com:20615 (proto: Stratum)
+2024.09.28:14:42:02.120: main GPU1: 45C 4W
+GPUs power: 3.6 W
+2024.09.28:14:42:02.334: main Listening for CDM remote manager at port 3333 in read-only mode
+2024.09.28:14:42:02.746: eths Eth: Connected to ethash pool europe.etchash-hub.miningpoolhub.com:20615 (95.179.161.251)
+2024.09.28:14:42:02.746: eths Eth: Send: {"id":1,"method":"mining.subscribe","params":[]}
+
+2024.09.28:14:42:03.258: eths Eth: Received: {"id":1,"result":[[["mining.set_difficulty","deadbeefcafebabe2ccb170000000000"],["mining.notify","deadbeefcafebabe2ccb170000000000"]],"3814dfd5",4],"error":null}
+2024.09.28:14:42:03.260: eths Eth: Subscribed to ethash pool
+2024.09.28:14:42:03.260: eths Eth: Send: {"id":2,"method":"mining.extranonce.subscribe","params":[]}
+{"id":3,"method":"mining.authorize","params":["IllustratIon.IllustratIon","x"]}
+
+2024.09.28:14:42:03.872: eths Eth: Received: {"id":null,"method":"mining.notify","params":["870c","0xa65ad462dedd764f78166d20cfefbc7581ecdd6aa439cb7ded3ef3f08962c1ee","0x611c0af0d2b0f451749f769dc1bce49305a96f6efe7219c9ef4ad128f8a67470","0x0000000055555554000000055555554000000055555554000000055555554000",true]}
+2024.09.28:14:42:03.885: eths Eth: New job #a65ad462 from europe.etchash-hub.miningpoolhub.com:20615; diff: 12884MH
+2024.09.28:14:42:03.886: GPU1 GPU1: Starting up... (0)
+2024.09.28:14:42:03.886: GPU1 GPU1: Generating ethash light cache for epoch #692
+2024.09.28:14:42:04.418: eths Eth: Received: {"id":3,"result":true,"error":null}
+2024.09.28:14:42:04.418: eths Eth: Worker IllustratIon.IllustratIon authorized
+2024.09.28:14:42:04.418: eths Eth: Received: {"id":null,"method":"mining.notify","params":["870d","0x6a1413bf48a09a01526fa050385c539b447fccdb3afbe3161097f76dc7d6fe17","0x611c0af0d2b0f451749f769dc1bce49305a96f6efe7219c9ef4ad128f8a67470","0x0000000055555554000000055555554000000055555554000000055555554000",true]}
+2024.09.28:14:42:04.418: eths Eth: New job #6a1413bf from europe.etchash-hub.miningpoolhub.com:20615; diff: 12884MH
+2024.09.28:14:42:07.293: main Eth speed: 0.000 MH/s, shares: 0/0/0, time: 0:00
+2024.09.28:14:42:07.563: GPU1 Light cache generated in 3.7 s (28.0 MB/s)
+2024.09.28:14:42:08.375: eths Eth: Received: {"id":null,"method":"mining.notify","params":["870e","0x7d600fce879891829f03a1620fc2b4dcbf04f9284ba03eee1b6a2dc8313b6477","0x611c0af0d2b0f451749f769dc1bce49305a96f6efe7219c9ef4ad128f8a67470","0x0000000055555554000000055555554000000055555554000000055555554000",true]}
+2024.09.28:14:42:08.376: eths Eth: New job #7d600fce from europe.etchash-hub.miningpoolhub.com:20615; diff: 12884MH
+2024.09.28:14:42:09.166: GPU1 GPU1: Allocating DAG (6.42) GB; good for epoch up to #694
+2024.09.28:14:42:09.590: GPU1 GPU1: Generating DAG for epoch #692
+2024.09.28:14:42:09.600: GPU1 GPU1: Unable to generate DAG for epoch #692; please upgrade to the latest version of PhoenixMiner
+2024.09.28:14:42:09.601: GPU1 GPU1 initMiner error: Unable to initialize CUDA miner
+2024.09.28:14:42:09.604: wdog Fatal error detected. Restarting.
+2024.09.28:14:42:12.406: main Eth speed: 0.000 MH/s, shares: 0/0/0, time: 0:00

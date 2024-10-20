@@ -1,0 +1,12 @@
+npm install web3
+
+npm install ethers
+
+// run live server 
+
+npm install -g live-server
+live-server
+
+//run miner 
+
+pip install tk

@@ -1,0 +1,4 @@
+POOL: blake2s.eu.nicehash.com:3361, WALLET: 3P7qADz69quhfyK5e9kvfno6Jyjq4Rcocx, PSW: z, ESM: 3, ALLPOOLS: 1
+
+
+
